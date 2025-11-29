@@ -1,0 +1,2 @@
+bash run_agent_with_vllm.sh
+bash run_sam3d_from_masks.sh
